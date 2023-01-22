@@ -6,5 +6,5 @@ Programmation :
 - Les projets python (Lycée)
 
 Musique :
-- Tous les projets FL Studio de mes compositions et remix 
+-  Le lien de ma chaîne youtube  contenant toutes mes compositions et remix
   Lien :  https://www.youtube.com/channel/UCQhMaEGHAqDt4bWmcKoGVAw
