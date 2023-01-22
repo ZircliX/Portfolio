@@ -6,4 +6,4 @@ Programmation :
 - Les projets python (Lycée)
 
 Musique :
-- Tous les projets FL Studio de mes musiques et remix 
+- Tous les projets FL Studio de mes compositions et remix 
