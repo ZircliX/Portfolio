@@ -6,5 +6,4 @@ Programmation :
 - Les projets python (Lycée)
 
 Musique :
--  Le lien de ma chaîne youtube  contenant toutes mes compositions et remix
-  Lien :  https://www.youtube.com/channel/UCQhMaEGHAqDt4bWmcKoGVAw
+-  Le lien de ma chaîne youtube  contenant toutes mes compositions et remix : https://www.youtube.com/channel/UCQhMaEGHAqDt4bWmcKoGVAw
